@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "229729290865",
+    "project_id": "bus-tricket-system",
+    "storage_bucket": "bus-tricket-system.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229729290865:android:6138ff22def3a18bfe69d0",
+        "android_client_info": {
+          "package_name": "com.example.bus_ticket_booking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr9_UTqukqbO685wBwOMzlka90S0OwDME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
